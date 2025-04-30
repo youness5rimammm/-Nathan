@@ -9,9 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">Drew hays - Personal Portfolio Website</h2>
+  <h2 align="center">Nathan - Personal Portfolio Website</h2>
 
-  Drew hays is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Nathan is a fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/drew-hays-personal-portfolio/"><strong>➥ Live Demo</strong></a>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Drew hays Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Nathan Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Drew hays** locally, run this command on your git bash:
+To run **Nathan** locally, run this command on your git bash:
 
 Linux and macOS:
 

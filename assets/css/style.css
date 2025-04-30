@@ -68,7 +68,7 @@
   --fontSize-10: 1.4rem;
 
   /* font weight */
-  --weight-regular: 400;
+  --weight-regular: 300;
   --weight-medium: 500;
 
   /**
@@ -263,7 +263,7 @@ body.nav-active { overflow: hidden; }
 
 .h3 { font-size: var(--fontSize-4); }
 
-.h4 { font-size: var(--fontSize-5); }
+.h4 { font-size: var(--fontSize-5); color:rgb(58, 105, 175); }
 
 .h5 { font-size: var(--fontSize-7); }
 
@@ -1423,7 +1423,7 @@ textarea.input-field {
   .container,
   .service .container { max-width: 1200px; }
 
-  .h1 { line-height: 1.1; }
+  .h1 { line-height: 1.4; font-size: 3.5rem; }
 
 
 

@@ -1,4 +1,4 @@
-Drew Hays - Get your product identity from me.
+Nathan - Get your product identity from me.
 
 This is a personal portfolio html template made by codewithsadee
 
@@ -30,9 +30,9 @@ aria-label = open menu
 
 #---------- HERO ----------#
 
-alt = Drew Hays
+alt = Nathan
 
-Drew Hays
+Nathan
 
 Get Your Product Identity From Me.
 
@@ -78,9 +78,9 @@ A very small stage in a vast cosmic.
 A very small stage in a vast cosmic arena great turbuslent clouds encyclo-paedia galactica star stuff harvesting star light the carbon in our apple pies realm of the galaxies
 
 Name
-Drew Hays
+Nathan
 
-Phone Number
+téléphoneNumber
 123. 456. 789. 01
 
 Email Address
@@ -142,9 +142,9 @@ alt = music
 
 #---------- CTA ----------#
 
-Let's Work Together On Your Next Project!
+Travaillons ensemble sur votre prochain projet !
 
-Hire Me Now
+Embauchez-moi 
 
 <ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
 
@@ -187,7 +187,7 @@ Founder of alxis co.
 
 Get In Touch
 
-placeholder = Full name
+placeholder = nom et prénom
 placeholder = Email address
 placeholder = Phone
 placeholder = Enter massges
@@ -200,7 +200,7 @@ map src = https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d898.432923926709
 
 alt = contact icon
 
-869. 368. 456. 56
+07 71 77 32 83
 789 (569) 126 35
 
 30- 24 Newtown Rd, Queens,
